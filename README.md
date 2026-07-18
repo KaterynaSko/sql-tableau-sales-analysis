@@ -23,3 +23,4 @@ The interactive dashboard built on top of this data highlights:
 - **Seasonality:** A horizontal bar chart showing sales distribution across weekdays.
 
 **[Link to my Tableau Public Dashboard](https://public.tableau.com/views/Salesanalyse_17798785984280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+![Tableau Dashboard](./Sales_analyse.png)
